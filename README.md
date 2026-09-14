@@ -14,15 +14,14 @@ Turn a prompt or your own narration into a faceless video using the **FluxNote A
 
 <p align="center">
   <strong><a href="https://fluxnote.io">Start creating free ↗</a></strong>
-  &nbsp; · &nbsp;
-  <strong><a href="https://fluxnote.io">Explore FluxNote →</a></strong>
+  &nbsp; &nbsp; · &nbsp; &nbsp;
+  <a href="https://fluxnote.io/developers">API documentation</a>
+  &nbsp; &nbsp; · &nbsp; &nbsp;
+  <a href="https://app.fluxnote.io/developers?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=faceless_video_starter&amp;utm_content=api_key">Get an API key</a>
 </p>
 
-[Explore FluxNote](https://fluxnote.io/?utm_source=github&utm_medium=referral&utm_campaign=faceless_video_starter&utm_content=readme) · [API documentation](https://fluxnote.io/developers) · [Get an API key](https://app.fluxnote.io/developers?utm_source=github&utm_medium=referral&utm_campaign=faceless_video_starter&utm_content=api_key)
-
-<p align="center"><strong>Follow FluxNote</strong></p>
-
 <p align="center">
+  <strong>Follow FluxNote</strong><br /><br />
   <a href="https://www.instagram.com/fluxnote.io/" title="FluxNote on Instagram"><img src="docs/assets/social/instagram.svg" alt="FluxNote on Instagram" width="44" height="44" /></a>
   &nbsp;
   <a href="https://www.tiktok.com/@fluxnote" title="FluxNote on TikTok"><img src="docs/assets/social/tiktok.svg" alt="FluxNote on TikTok" width="44" height="44" /></a>
