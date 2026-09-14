@@ -20,7 +20,19 @@ Turn a prompt or your own narration into a faceless video using the **FluxNote A
 
 [Explore FluxNote](https://fluxnote.io/?utm_source=github&utm_medium=referral&utm_campaign=faceless_video_starter&utm_content=readme) · [API documentation](https://fluxnote.io/developers) · [Get an API key](https://app.fluxnote.io/developers?utm_source=github&utm_medium=referral&utm_campaign=faceless_video_starter&utm_content=api_key)
 
-**Follow FluxNote:** [Instagram](https://www.instagram.com/fluxnote.io/) · [TikTok](https://www.tiktok.com/@fluxnote) · [YouTube](https://www.youtube.com/@fluxnote) · [X](https://x.com/fluxnote_) · [LinkedIn](https://www.linkedin.com/company/fluxnote)
+<p align="center"><strong>Follow FluxNote</strong></p>
+
+<p align="center">
+  <a href="https://www.instagram.com/fluxnote.io/" title="FluxNote on Instagram"><img src="docs/assets/social/instagram.svg" alt="FluxNote on Instagram" width="44" height="44" /></a>
+  &nbsp;
+  <a href="https://www.tiktok.com/@fluxnote" title="FluxNote on TikTok"><img src="docs/assets/social/tiktok.svg" alt="FluxNote on TikTok" width="44" height="44" /></a>
+  &nbsp;
+  <a href="https://www.youtube.com/@fluxnote" title="FluxNote on YouTube"><img src="docs/assets/social/youtube.svg" alt="FluxNote on YouTube" width="44" height="44" /></a>
+  &nbsp;
+  <a href="https://x.com/fluxnote_" title="FluxNote on X"><img src="docs/assets/social/x.svg" alt="FluxNote on X" width="44" height="44" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/company/fluxnote" title="FluxNote on LinkedIn"><img src="docs/assets/social/linkedin.svg" alt="FluxNote on LinkedIn" width="44" height="44" /></a>
+</p>
 
 **Open-source examples, hosted generation.** The code here is MIT licensed. Video generation runs on FluxNote and requires an account, an API key, sufficient credits, and an eligible plan. It is not a local AI model or a free, unlimited generation service.
 
