@@ -1,0 +1,8 @@
+{
+  "prompt": "Write a short educational narration explaining why the ocean looks blue. Keep the explanation accurate and engaging.",
+  "template": "faceless",
+  "voice": "adrian",
+  "language": "en",
+  "target_duration": 20,
+  "aspect_ratio": "9:16"
+}

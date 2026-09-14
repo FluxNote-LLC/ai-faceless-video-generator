@@ -1,0 +1,10 @@
+.env
+.env.*
+!.env.example
+*.receipt.json
+*.mp4
+*.part
+__pycache__/
+node_modules/
+.venv/
+.DS_Store

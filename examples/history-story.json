@@ -1,0 +1,8 @@
+{
+  "prompt": "Tell a short factual story about how the printing press changed access to books. Avoid invented quotations or historical claims.",
+  "template": "faceless",
+  "voice": "adrian",
+  "language": "en",
+  "target_duration": 30,
+  "aspect_ratio": "9:16"
+}
