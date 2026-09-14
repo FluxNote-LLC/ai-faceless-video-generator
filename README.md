@@ -2,6 +2,16 @@
 
 Turn a prompt or your own narration into a faceless video using the **FluxNote API**. This repository contains small, dependency-free **JavaScript and Python examples** for creating narrated videos for YouTube Shorts, Instagram Reels, and TikTok.
 
+<a href="https://fluxnote.io">
+  <img src="docs/assets/fluxnote-studio.png" alt="FluxNote AI creative studio — create images, videos, faceless content and ads. Click to explore FluxNote." width="1200" />
+</a>
+
+<p align="center">
+  <strong><a href="https://fluxnote.io">Start creating free ↗</a></strong>
+  &nbsp; · &nbsp;
+  <strong><a href="https://fluxnote.io">Explore FluxNote →</a></strong>
+</p>
+
 [Explore FluxNote](https://fluxnote.io/?utm_source=github&utm_medium=referral&utm_campaign=faceless_video_starter&utm_content=readme) · [API documentation](https://fluxnote.io/developers) · [Get an API key](https://app.fluxnote.io/developers?utm_source=github&utm_medium=referral&utm_campaign=faceless_video_starter&utm_content=api_key)
 
 **Open-source examples, hosted generation.** The code here is MIT licensed. Video generation runs on FluxNote and requires an account, an API key, sufficient credits, and an eligible plan. It is not a local AI model or a free, unlimited generation service.
@@ -146,6 +156,8 @@ Tests use a local mock API and fake media responses—no real key, account, gene
 Start with one script, inspect the result, and adapt the inputs for your own workflow. Review facts, rights to supplied content, and the generated video before publishing.
 
 For the hosted application, visit [FluxNote](https://fluxnote.io). For integration details beyond this starter, see the [developer documentation](https://fluxnote.io/developers).
+
+**Ready to create your next video? [Start creating with FluxNote →](https://fluxnote.io)**
 
 ## License and support
 
